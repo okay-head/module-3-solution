@@ -1,0 +1,22 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: 1.5em !important;
+}
+
+.container{
+    margin: 60px 0;
+    background-color: rgba(223, 218, 180, 0.479);
+    padding: 50px !important;
+}
+
+h2{
+    width:max-content;
+    margin-top: 5% !important;
+    margin-bottom: 5% !important;
+    text-decoration: underline;
+}
+
+.navbar-nav li a:hover{
+   font-weight: bold;
+}
+
